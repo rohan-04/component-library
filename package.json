@@ -1,0 +1,10 @@
+{
+  "name": "component-library",
+  "version": "1.0.0",
+  "scripts": {
+    "prettier": "prettier --write \"**/*.{js,css,md,html}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}
